@@ -13,3 +13,8 @@ function sub(a,b){
 const mul=(a,b)=>{
 return a*b
 }
+
+
+function div(a,b){
+    return a/b
+}
