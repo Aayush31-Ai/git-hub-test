@@ -9,3 +9,7 @@ const a = addtwoNumber(2,5)
 function sub(a,b){
     return a-b
 }   
+
+const mul=(a,b)=>{
+return a*b
+}
