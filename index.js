@@ -16,5 +16,6 @@ return a*b
 
 
 function div(a,b){
+const divide = (a,b)=>{
     return a/b
 }
